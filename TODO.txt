@@ -1,0 +1,21 @@
+<form method="post" action="https://sandbox.payhere.lk/pay/checkout">
+<input type="hidden" name="merchant_id" value="1213558">    <!-- Replace your Merchant ID -->
+<input type="hidden" name="return_url" value="http://course.ultimomart.com/orders.php">
+<input type="hidden" name="cancel_url" value="http://course.ultimomart.com/courses.php">
+<input type="hidden" name="notify_url" value="http://course.ultimomart.com/payment.php">  
+
+$merchant_secret = '4Es2mHerDoh8QnYWwMXIv48hix4tRssvR4Ur9PLgsnN0'; 
+
+.....................................................................................................
+
+<form method="post" action="https://www.payhere.lk/pay/checkout">
+<input type="hidden" name="merchant_id" value="214480">    <!-- Replace your Merchant ID -->
+<input type="hidden" name="return_url" value="http://course.achievers.lk/orders.php">
+<input type="hidden" name="cancel_url" value="http://course.achievers.lk/index.php">
+<input type="hidden" name="notify_url" value="http://course.achievers.lk/payment.php">  
+
+$merchant_secret = '1013aa98e6295e7599bc767612d58de6'; 
+
+.....................................................................................................
+
+

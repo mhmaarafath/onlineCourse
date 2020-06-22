@@ -1,0 +1,20 @@
+.header, .footer{
+    background: #ff0000;
+    text-align: center;
+    color: #fff;
+    padding: 5px;
+}
+
+.footer{
+    color: #fff;
+    font-size: 1em;
+}
+
+nav a{
+    color : #fff !important;
+}
+
+.jumbotron {
+    padding : 30px !important;
+}
+
